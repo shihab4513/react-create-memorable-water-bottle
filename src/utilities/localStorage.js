@@ -23,4 +23,4 @@ const addToLocalStorage=id=>{
 
 }
 
-export {addToLocalStorage};
+export {addToLocalStorage,getStoredCart};
